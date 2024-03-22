@@ -12,3 +12,18 @@
 ### Vithor
 ### Leonardo
 ### Nicolas Aparecido
+
+# Parte de random, abaixo o código usado para randomizar números:
+```
+import random
+
+num1 = random.randint(-100, 100)
+num2 = random.randint(-100, 100)
+```
+
+# Parte de random, abaixo o código usado para randomizar operações matemáticas (+, -, //, *):
+```
+import random
+
+ops = random.SystemRandom().choice(['+', '-', '*', '//'])
+```
