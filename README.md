@@ -7,11 +7,12 @@
 
 # Criadores: 
 
-### Felipe Fernandes (github.com/maidenzinho)
-### João Repula
-### Vithor
-### Leonardo
-### Nicolas Aparecido
+Nomes dos integrantes do grupo:
+### - Leonardo de Goes da Silva
+### - Nicolas Aparecido Ferreira
+### - Vithor Augusto Andrade
+### - Felipe Fernandes Bortolino (github.com/maidenzinho)
+### - João Victor Repula Cordeiro
 
 # Parte de random, abaixo o código usado para randomizar números:
 ```
