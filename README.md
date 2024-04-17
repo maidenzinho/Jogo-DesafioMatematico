@@ -5,14 +5,6 @@
 
 ### Código aberto para quem quiser estudar e jogar! Favor se for usar, dar os devidos créditos
 
-# Criadores: 
-
-Nomes dos integrantes do grupo:
-### - Leonardo de Goes da Silva
-### - Nicolas Aparecido Ferreira
-### - Vithor Augusto Andrade
-### - Felipe Fernandes Bortolino (github.com/maidenzinho)
-### - João Victor Repula Cordeiro
 
 # Parte de random, abaixo o código usado para randomizar números:
 ```
