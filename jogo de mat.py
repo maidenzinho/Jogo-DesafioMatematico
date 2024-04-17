@@ -1,13 +1,4 @@
 
-  
-"""
-Nomes dos integrantes do grupo:
-- Leonardo de Goes da Silva
-- Nicolas Aparecido Ferreira
-- Vithor Augusto Andrade
-- Felipe Fernandes Bortolino
-- João Victor Repula Cordeiro
-"""
 import random
 import time
 
